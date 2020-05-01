@@ -97,6 +97,13 @@ Note: course outline may vary slightly based on the regional location and/or lan
 - Image processing using PIL
 - Publishing your own package
 
+### Class 5: Social DP generator
+
+- Pypi
+- Working with third party packages
+- Image processing using PIL
+- Publishing your own package
+
 ### Class 6: Flipkart scraper
 
 - OOP’s way of seeing things
