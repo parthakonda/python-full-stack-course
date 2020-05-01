@@ -23,7 +23,7 @@ Help Alice in finding the different combinations that he can buy 100 fruits with
 
 Keep in mind that, because of the fact that prices of these fruits will get varied/changed.
 
-# Solution
+## Solution
 
 ```
 python3 combination-finder.py
