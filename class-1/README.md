@@ -28,6 +28,6 @@ Keep in mind that, because of the fact that prices of these fruits will get vari
 ```
 python3 combination-finder.py
 ```
-### Output
+## Output
 
 ![TechSparks-Sks](images/output.gif "Combination Finder")
