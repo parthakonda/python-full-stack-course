@@ -91,11 +91,6 @@ Note: course outline may vary slightly based on the regional location and/or lan
 - Usage of Generators
 - Code optimization with list comprehensions
 - Filter, map and reduce
-- Class 5: Social DP generator
-- Pypi
-- Working with third party packages
-- Image processing using PIL
-- Publishing your own package
 
 ### Class 5: Social DP generator
 
