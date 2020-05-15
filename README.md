@@ -1,6 +1,5 @@
 # Python-Full-Stack Course - Python, Pandas, Selenium, Flask
 
-![TechSparks-Sks](images/techsparks-sks.png "TechSparks-SKS")
 ## About this course
 
 `It is the easiest programming language that you can learn`. Python is now the de-facto programming language for data science. So, learning python is kind of a rewarding career. Initially, while learning basics might be boring...but as you progress you can practice exciting and real world examples. This course not only focuses on syntactic sugars of Python, but also helps you improve your coding skills and focuses on improving patterns in solving problems. This course not only focuses on Python but also provides you a way to get into test automation and data science. So if you're looking to upgrade yourself as a python developer or backend developer or data scientist or test automation engineer then this course will help you to get started quickly. (don't expect to be a master in these :)).
